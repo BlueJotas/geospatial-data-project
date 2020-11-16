@@ -24,3 +24,7 @@
 
 - And last but not least, we localized an airport (because our Account Managers like to travel a lot) within the 20km range, so they just need to take a taxi or an uber and they'll be there in less than 30 minutes!
 
+The 95% percent of the work is stored in our notebooks. There's two of them: one is the Geo notebook where we got access to our database in Mongo and localized all the successful companies in San José that we needed, the other is the Google API notebook where we communicated with the API to obtain the rest of the things that we've mentioned above.
+The main.py only stores a function that we needed to modularize to be quicker in our work, but everything else were more or less unique so we didn't need to repeat some process many times, and therefore didn't need any function to save us time. 
+
+Hope you enjoy the repo. Cheers!
